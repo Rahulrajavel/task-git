@@ -9,8 +9,14 @@ public class Rahul {
 	}
 	public void method3() {
 		System.out.println("3");
-
+   }
+	public void method4() {
+		System.out.println("4");
 	}
+	public void method5() {
+        System.out.println("5");
+	}
+<<<<<<< HEAD
 
 	public void method8() {
 		System.out.println("8");
@@ -22,4 +28,9 @@ public class Rahul {
 		System.out.println("10");
 
 	}
+=======
+	public void method6() {
+		System.out.println("6");
+   }
+>>>>>>> ce3d12bf92ee2114bdcb65cf5a9f5f48c8ffb1a3
 }
