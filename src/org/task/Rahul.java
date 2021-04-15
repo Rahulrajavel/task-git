@@ -16,7 +16,6 @@ public class Rahul {
 	public void method5() {
         System.out.println("5");
 	}
-<<<<<<< HEAD
 
 	public void method8() {
 		System.out.println("8");
@@ -28,9 +27,17 @@ public class Rahul {
 		System.out.println("10");
 
 	}
-=======
-	public void method6() {
-		System.out.println("6");
+
+	public void method11() {
+		System.out.println("11");
    }
->>>>>>> ce3d12bf92ee2114bdcb65cf5a9f5f48c8ffb1a3
+	public void method12() {
+        System.out.println("12");
+	}
+	public void method13() {
+		System.out.println("13");
+
+	}
+
+	
 }
